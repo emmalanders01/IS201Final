@@ -1,0 +1,28 @@
+.custom1{
+    font-style: italic
+}
+
+a{
+    color: goldenrod;
+}
+
+footer{
+    font-weight: bold;
+    font-size: medium;
+}
+
+button{
+    border-radius: 1px;
+    font-style:italic;
+    }
+.custom2{
+    font-weight: bold;
+}
+
+.custom3{
+    text-align: center;
+}
+
+img{
+    justify-content: center;
+}
